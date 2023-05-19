@@ -70,5 +70,5 @@ def actualizar_datos():
         print(f"Ocurrió un error al actualizar el dato: {e}")
     cursor.close()
 
-#actualizar_datos()
+actualizar_datos()
 
